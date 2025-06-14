@@ -1,0 +1,130 @@
+[
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "name": "Espanha"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "name": "Inglaterra"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1236" },
+    "name": "Itália"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1237" },
+    "name": "Alemanha"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "name": "França"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1239" },
+    "name": "Holanda"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1240" },
+    "name": "Portugal"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "name": "Brasil"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "name": "Argentina"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1243" },
+    "name": "Bélgica"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1244" },
+    "name": "Uruguai"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1245" },
+    "name": "Noruega"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1246" },
+    "name": "Polônia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1247" },
+    "name": "Suíça"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1248" },
+    "name": "Áustria"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1249" },
+    "name": "Croácia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1250" },
+    "name": "Eslovênia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1251" },
+    "name": "Escócia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1252" },
+    "name": "Suécia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1253" },
+    "name": "Finlândia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1254" },
+    "name": "Turquia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1255" },
+    "name": "Sérvia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1256" },
+    "name": "Geórgia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1257" },
+    "name": "Nigéria"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1258" },
+    "name": "Marrocos"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1259" },
+    "name": "Colômbia"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1260" },
+    "name": "Estados Unidos"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1261" },
+    "name": "Paraguai"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1262" },
+    "name": "Venezuela"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1263" },
+    "name": "Coreia do Sul"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1264" },
+    "name": "África do Sul"
+  },
+  {
+    "_id": { "$oid": "665f1a7e2d1b4c3a8f9e1265" },
+    "name": "Ucrânia"
+  }
+]

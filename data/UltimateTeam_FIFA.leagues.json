@@ -1,0 +1,37 @@
+[
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" },
+    "name": "Premier League",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" },
+    "name": "LaLiga",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" },
+    "name": "Serie A",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" },
+    "name": "Bundesliga",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" },
+    "name": "Ligue 1",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2239" },
+    "name": "Eredivisie",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+    "_id": { "$oid": "665f1b7e2d1b4c3a8f9e2240" },
+    "name": "Primeira Liga",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  }
+]

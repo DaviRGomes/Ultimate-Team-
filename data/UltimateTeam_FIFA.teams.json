@@ -1,0 +1,136 @@
+[
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3234" },
+    "name": "Liverpool",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3235" },
+    "name": "Arsenal",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3236" },
+    "name": "Manchester City",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3237" },
+    "name": "Chelsea",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3238" },
+    "name": "Newcastle United",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1c8e2d1b4c3a8f9e3239" },
+    "name": "Tottenham Hotspur",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2234" }
+  },
+  {
+    "_id": { "$oid": "665f1d1e2d1b4c3a8f9e4234" },
+    "name": "Real Madrid",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" }
+  },
+  {
+    "_id": { "$oid": "665f1d1e2d1b4c3a8f9e4235" },
+    "name": "Barcelona",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" }
+  },
+  {
+    "_id": { "$oid": "665f1d1e2d1b4c3a8f9e4236" },
+    "name": "Atlético de Madrid",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" }
+  },
+  {
+    "_id": { "$oid": "665f1d1e2d1b4c3a8f9e4237" },
+    "name": "Athletic Club",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" }
+  },
+  {
+    "_id": { "$oid": "665f1d1e2d1b4c3a8f9e4238" },
+    "name": "Villarreal",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2235" }
+  },
+
+  {
+    "_id": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "name": "Inter de Milão",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" }
+  },
+  {
+    "_id": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "name": "Milan",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" }
+  },
+  {
+    "_id": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "name": "Juventus",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" }
+  },
+  {
+    "_id": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "name": "Atalanta",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" }
+  },
+  {
+    "_id": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+    "name": "Bologna",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2236" }
+  },
+
+  {
+    "_id": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+    "name": "Bayern de Munique",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" }
+  },
+  {
+    "_id": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+    "name": "Bayer Leverkusen",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" }
+  },
+  {
+    "_id": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+    "name": "Eintracht Frankfurt",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" }
+  },
+  {
+    "_id": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "name": "Borussia Dortmund",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" }
+  },
+  {
+    "_id": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "name": "RB Leipzig",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2237" }
+  },
+
+  {
+    "_id": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "name": "Paris Saint-Germain",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" }
+  },
+  {
+    "_id": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "name": "Olympique de Marseille",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" }
+  },
+  {
+    "_id": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "name": "Lille",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" }
+  },
+  {
+    "_id": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "name": "Monaco",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" }
+  },
+  {
+    "_id": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "name": "Lyon",
+    "league_id": { "$oid": "665f1b7e2d1b4c3a8f9e2238" }
+  }
+]
+

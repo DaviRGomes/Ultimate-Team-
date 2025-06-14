@@ -1,0 +1,2010 @@
+
+[
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1001" },
+    "name": "Alisson",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1002" },
+    "name": "Alexander-Arnold",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1003" },
+    "name": "Konaté",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1004" },
+    "name": "Van Dijk",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1005" },
+    "name": "Robertson",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1251" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1006" },
+    "name": "Mac Allister",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1007" },
+    "name": "Szoboszlai",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1255" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1008" },
+    "name": "Gravenberch",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1009" },
+    "name": "Salah",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1264" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1010" },
+    "name": "Luis Diaz",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1259" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010001d1b4c3a8f9e1011" },
+    "name": "Jota",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3234" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1101" },
+    "name": "Raya",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1102" },
+    "name": "White",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1103" },
+    "name": "Saliba",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1104" },
+    "name": "Gabriel",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1105" },
+    "name": "Kiwior",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1246" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1106" },
+    "name": "Rice",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1107" },
+    "name": "Odegaard",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1245" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1108" },
+    "name": "Havertz",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1109" },
+    "name": "Saka",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1110" },
+    "name": "Martinelli",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010101d1b4c3a8f9e1111" },
+    "name": "Gabriel Jesus",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3235" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1201" },
+    "name": "Ederson",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1202" },
+    "name": "Walker",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1203" },
+    "name": "Dias",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1204" },
+    "name": "Stones",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1205" },
+    "name": "Gvardiol",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1249" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1206" },
+    "name": "Rodri",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1207" },
+    "name": "De Bruyne",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1243" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1208" },
+    "name": "Foden",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1209" },
+    "name": "Bernardo Silva",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1210" },
+    "name": "Doku",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1243" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010201d1b4c3a8f9e1211" },
+    "name": "Haaland",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1245" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3236" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1301" },
+    "name": "Robert Sánchez",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1302" },
+    "name": "Reece James",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1303" },
+    "name": "Benoît Badiashile",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1304" },
+    "name": "Thiago Silva",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1305" },
+    "name": "Marc Cucurella",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1306" },
+    "name": "Enzo Fernández",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1307" },
+    "name": "Moisés Caicedo",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1308" },
+    "name": "Cole Palmer",
+    "position": "MEI",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1309" },
+    "name": "Noni Madueke",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1310" },
+    "name": "Mykhailo Mudryk",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1265" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010301d1b4c3a8f9e1311" },
+    "name": "Nicolas Jackson",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3237" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1401" },
+    "name": "Nick Pope",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1402" },
+    "name": "Kieran Trippier",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1403" },
+    "name": "Fabian Schär",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1404" },
+    "name": "Sven Botman",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1405" },
+    "name": "Dan Burn",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1406" },
+    "name": "Bruno Guimarães",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1407" },
+    "name": "Sandro Tonali",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1408" },
+    "name": "Joelinton",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1409" },
+    "name": "Miguel Almirón",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1261" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1410" },
+    "name": "Anthony Gordon",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010401d1b4c3a8f9e1411" },
+    "name": "Alexander Isak",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1252" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3238" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1501" },
+    "name": "Guglielmo Vicario",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1502" },
+    "name": "Pedro Porro",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1503" },
+    "name": "Cristian Romero",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1504" },
+    "name": "Micky van de Ven",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1505" },
+    "name": "Destiny Udogie",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1506" },
+    "name": "Rodrigo Bentancur",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1244" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1507" },
+    "name": "Pape Matar Sarr",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1508" },
+    "name": "James Maddison",
+    "position": "MEI",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1509" },
+    "name": "Dejan Kulusevski",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1252" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1510" },
+    "name": "Heung-Min Son",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1263" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666010501d1b4c3a8f9e1511" },
+    "name": "Richarlison",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1c8e2d1b4c3a8f9e3239" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2001" },
+    "name": "Thibaut Courtois",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1243" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2002" },
+    "name": "Lucas Vazquez",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2003" },
+    "name": "Raul Asencio",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2004" },
+    "name": "Antonio Rüdiger",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2005" },
+    "name": "David Alaba",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1248" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2006" },
+    "name": "Federico Valverde",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1244" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2007" },
+    "name": "Aurelien Tchouameni",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2008" },
+    "name": "Jude Bellingham",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2009" },
+    "name": "Rodrygo Goes",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2010" },
+    "name": "Vinicius Junior",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020001d1b4c3a8f9e2011" },
+    "name": "Kylian Mbappé",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4234" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2101" },
+    "name": "Wojciech Szczesny",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1246" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2102" },
+    "name": "Jules Koundé",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2103" },
+    "name": "Pau Cubarsí",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2104" },
+    "name": "Ronald Araujo",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1244" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2105" },
+    "name": "Alejandro Balde",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2106" },
+    "name": "Casadó",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2107" },
+    "name": "Gavi",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2108" },
+    "name": "Pedri",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2109" },
+    "name": "Lamine Yamal",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2110" },
+    "name": "Raphinha",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020101d1b4c3a8f9e2111" },
+    "name": "Lewandowski",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1246" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4235" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2201" },
+    "name": "Jan Oblak",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1250" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2202" },
+    "name": "Marcos Llorente",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2203" },
+    "name": "José Giménez",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1244" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2204" },
+    "name": "Clément Lenglet",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2205" },
+    "name": "Reinildo",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2206" },
+    "name": "Giuliano Simeone",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2207" },
+    "name": "Rodrigo De Paul",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2208" },
+    "name": "Pablo Barrios",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2209" },
+    "name": "Conor Gallagher",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2210" },
+    "name": "Antoine Griezmann",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020201d1b4c3a8f9e2211" },
+    "name": "Julian Alvarez",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4236" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2301" },
+    "name": "Unai Simón",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2302" },
+    "name": "Óscar De Marcos",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2303" },
+    "name": "Unai Núñez",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2304" },
+    "name": "Aitor Paredes",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2305" },
+    "name": "Yuri Berchiche",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2306" },
+    "name": "Mikel Jaureguizar",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2307" },
+    "name": "Iñigo Ruiz de Galarreta",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2308" },
+    "name": "Unai Gómez",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2309" },
+    "name": "Alex Berenguer",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2310" },
+    "name": "Nico Williams",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020301d1b4c3a8f9e2311" },
+    "name": "Maroan Sannadi",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4237" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2401" },
+    "name": "Luiz Júnior",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2402" },
+    "name": "Pau Navarro",
+    "position": "LD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2403" },
+    "name": "Juan Foyth",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2404" },
+    "name": "Logan Costa",
+    "position": "Zagueiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2405" },
+    "name": "Sergi Cardona",
+    "position": "LE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2406" },
+    "name": "Dani Parejo",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2407" },
+    "name": "Santi Comesaña",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2408" },
+    "name": "Álex Baena",
+    "position": "MC",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2409" },
+    "name": "Nicolás Pepé",
+    "position": "PD",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2410" },
+    "name": "Yéremy Pino",
+    "position": "PE",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666020401d1b4c3a8f9e2411" },
+    "name": "Ayoze Pérez",
+    "position": "ATA",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" },
+    "team": { "$oid": "665f1d1e2d1b4c3a8f9e4238" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3001" },
+    "name": "Yann Sommer",
+    "position": "Goleiro",
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" },
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3002" },
+    "name": "Matteo Darmian",
+    "position": "LD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3003" },
+    "name": "Benjamin Pavard",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3004" },
+    "name": "Alessandro Bastoni",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3005" },
+    "name": "Federico Dimarco",
+    "position": "LE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3006" },
+    "name": "Nicolò Barella",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3007" },
+    "name": "Hakan Çalhanoğlu",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1254" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3008" },
+    "name": "Henrikh Mkhitaryan",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1256" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3009" },
+    "name": "Marcus Thuram",
+    "position": "ATA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3010" },
+    "name": "Lautaro Martínez",
+    "position": "ATA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" }
+  },
+  {
+    "_id": { "$oid": "666030001d1b4c3a8f9e3011" },
+    "name": "Denzel Dumfries",
+    "position": "ALA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3101" },
+    "name": "Mike Maignan",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3102" },
+    "name": "Davide Calabria",
+    "position": "LD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3103" },
+    "name": "Fikayo Tomori",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3104" },
+    "name": "Malick Thiaw",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3105" },
+    "name": "Theo Hernández",
+    "position": "LE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3106" },
+    "name": "Tijjani Reijnders",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3107" },
+    "name": "Yunus Musah",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1260" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3108" },
+    "name": "Ruben Loftus-Cheek",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3109" },
+    "name": "Christian Pulisic",
+    "position": "PD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1260" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3110" },
+    "name": "Rafael Leão",
+    "position": "PE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666030101d1b4c3a8f9e3111" },
+    "name": "Olivier Giroud",
+    "position": "ATA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3201" },
+    "name": "Mattia Perin",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3202" },
+    "name": "Danilo",
+    "position": "LD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3203" },
+    "name": "Bremer",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3204" },
+    "name": "Federico Gatti",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3205" },
+    "name": "Andrea Cambiaso",
+    "position": "LE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3206" },
+    "name": "Manuel Locatelli",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3207" },
+    "name": "Weston McKennie",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1260" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3208" },
+    "name": "Teun Koopmeiners",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3209" },
+    "name": "Federico Chiesa",
+    "position": "PD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3210" },
+    "name": "Nicolás González",
+    "position": "PE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" }
+  },
+  {
+    "_id": { "$oid": "666030201d1b4c3a8f9e3211" },
+    "name": "Dusan Vlahovic",
+    "position": "ATA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1255" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3301" },
+    "name": "Marco Carnesecchi",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3302" },
+    "name": "Davide Zappacosta",
+    "position": "LD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3303" },
+    "name": "Berat Djimsiti",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1254" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3304" },
+    "name": "Isak Hien",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1252" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3305" },
+    "name": "Rafael Toloi",
+    "position": "LE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3306" },
+    "name": "Marten de Roon",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3307" },
+    "name": "Éderson",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3308" },
+    "name": "Mario Pašalić",
+    "position": "MC",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1249" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3309" },
+    "name": "Charles De Ketelaere",
+    "position": "PD",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1243" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3310" },
+    "name": "Ademola Lookman",
+    "position": "PE",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+    "_id": { "$oid": "666030301d1b4c3a8f9e3311" },
+    "name": "Gianluca Scamacca",
+    "position": "ATA",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "666030401d1b4c3a8f9e3401" },
+    "name": "Lukasz Skorupski",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1246" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3402" },
+  "name": "Davide Calabria",
+  "position": "LD",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3403" },
+  "name": "Martin Erlic",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1249" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3404" },
+  "name": "Jhon Lucumí",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1259" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3405" },
+  "name": "Charalampos Lykogiannis",
+  "position": "LE",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1254" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3406" },
+  "name": "Nikola Moro",
+  "position": "MC",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1249" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3407" },
+  "name": "Remo Freuler",
+  "position": "MC",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3408" },
+  "name": "Lewis Ferguson",
+  "position": "MC",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1251" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3409" },
+  "name": "Riccardo Orsolini",
+  "position": "PD",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3410" },
+  "name": "Dan Ndoye",
+  "position": "PE",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" }
+  },
+  {
+  "_id": { "$oid": "666030401d1b4c3a8f9e3411" },
+  "name": "Santiago Castro",
+  "position": "ATA",
+  "team": { "$oid": "665f1d2e2d1b4c3a8f9e5238" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4001" },
+  "name": "Manuel Neuer",
+  "position": "Goleiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4002" },
+  "name": "Joshua Kimmich",
+  "position": "LD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4003" },
+  "name": "Matthijs de Ligt",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4004" },
+  "name": "Kim Min-jae",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1263" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4005" },
+  "name": "Alphonso Davies",
+  "position": "LE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1260" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4006" },
+  "name": "Leon Goretzka",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4007" },
+  "name": "Jamal Musiala",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4008" },
+  "name": "Aleksandar Pavlović",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4009" },
+  "name": "Leroy Sané",
+  "position": "PD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4010" },
+  "name": "Serge Gnabry",
+  "position": "PE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040001d1b4c3a8f9e4011" },
+  "name": "Harry Kane",
+  "position": "ATA",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6234" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4101" },
+  "name": "Lukáš Hrádecký",
+  "position": "Goleiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1253" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4102" },
+  "name": "Jeremie Frimpong",
+  "position": "LD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4103" },
+  "name": "Jonathan Tah",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4104" },
+  "name": "Edmond Tapsoba",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4105" },
+  "name": "Álex Grimaldo",
+  "position": "LE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4106" },
+  "name": "Granit Xhaka",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4107" },
+  "name": "Robert Andrich",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4108" },
+  "name": "Florian Wirtz",
+  "position": "MEI",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4109" },
+  "name": "Jonas Hofmann",
+  "position": "PD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4110" },
+  "name": "Nathan Tella",
+  "position": "PE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+  "_id": { "$oid": "666040101d1b4c3a8f9e4111" },
+  "name": "Victor Boniface",
+  "position": "ATA",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6235" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4201" },
+  "name": "Kevin Trapp",
+  "position": "Goleiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4202" },
+  "name": "Tuta",
+  "position": "LD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4203" },
+  "name": "Robin Koch",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4204" },
+  "name": "Willian Pacho",
+  "position": "Zagueiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1259" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4205" },
+  "name": "Philipp Max",
+  "position": "LE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4206" },
+  "name": "Ellyes Skhiri",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4207" },
+  "name": "Mario Götze",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4208" },
+  "name": "Hugo Larsson",
+  "position": "MC",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1252" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4209" },
+  "name": "Omar Marmoush",
+  "position": "PD",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4210" },
+  "name": "Ansgar Knauff",
+  "position": "PE",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+  "_id": { "$oid": "666040201d1b4c3a8f9e4211" },
+  "name": "Sasa Kalajdzic",
+  "position": "ATA",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6236" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1248" }
+  },
+  {
+  "_id": { "$oid": "666040301d1b4c3a8f9e4301" },
+  "name": "Gregor Kobel",
+  "position": "Goleiro",
+  "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+  "country": { "$oid": "665f1a7e2d1b4c3a8f9e1247" }
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4302" },
+    "name": "Julian Ryerson",
+    "position": "LD",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1245" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4303" },
+    "name": "Mats Hummels",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4304" },
+    "name": "Nico Schlotterbeck",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4305" },
+    "name": "Ian Maatsen",
+    "position": "LE",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4306" },
+    "name": "Emre Can",
+    "position": "MC",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4307" },
+    "name": "Marcel Sabitzer",
+    "position": "MC",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1248" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4308" },
+    "name": "Julian Brandt",
+    "position": "MC",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4309" },
+    "name": "Jadon Sancho",
+    "position": "PD",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" } 
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4310" },
+    "name": "Karim Adeyemi",
+    "position": "PE",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666040301d1b4c3a8f9e4311" },
+    "name": "Niclas Füllkrug",
+    "position": "ATA",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4401" },
+    "name": "Janis Blaswich",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4402" },
+    "name": "Benjamin Henrichs",
+    "position": "LD",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" } 
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4403" },
+    "name": "Mohamed Simakan",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4404" },
+    "name": "Castello Lukeba",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4405" },
+    "name": "David Raum",
+    "position": "LE",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4406" },
+    "name": "Xaver Schlager",
+    "position": "MC",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1248" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4407" },
+    "name": "Kevin Kampl",
+    "position": "MC",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1250" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4408" },
+    "name": "Dani Olmo",
+    "position": "MEI",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" }
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4409" },
+    "name": "Xavi Simons",
+    "position": "PD",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1239" } 
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4410" },
+    "name": "Loïs Openda",
+    "position": "PE",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1243" } 
+  },
+  {
+    "_id": { "$oid": "666040401d1b4c3a8f9e4411" },
+    "name": "Benjamin Sesko",
+    "position": "ATA",
+    "team": { "$oid": "665f1d3e2d1b4c3a8f9e6238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1250" } 
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5001" },
+    "name": "Gianluigi Donnarumma",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1236" }
+  },
+  {
+    "_id": { "$oid": "6841a228e9f5efc4739c2577" },
+    "name": "Hakimi",
+    "position": "LD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" } 
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5003" },
+    "name": "Marquinhos",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5004" },
+    "name": "Lucas Hernández",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5005" },
+    "name": "Nuno Mendes",
+    "position": "LE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5006" },
+    "name": "Vitinha",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5007" },
+    "name": "Warren Zaïre-Emery",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5008" },
+    "name": "Fabián Ruiz",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5009" },
+    "name": "Ousmane Dembélé",
+    "position": "PD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5010" },
+    "name": "Randal Kolo Muani",
+    "position": "PE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050001d1b4c3a8f9e5011" },
+    "name": "Gonçalo Ramos",
+    "position": "ATA",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7234" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5101" },
+    "name": "Pau López",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1234" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5102" },
+    "name": "Jonathan Clauss",
+    "position": "LD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5103" },
+    "name": "Samuel Gigot",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5104" },
+    "name": "Chancel Mbemba",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5105" },
+    "name": "Quentin Merlin",
+    "position": "LE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5106" },
+    "name": "Jordan Veretout",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5107" },
+    "name": "Valentin Rongier",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5108" },
+    "name": "Amine Harit",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5109" },
+    "name": "Iliman Ndiaye",
+    "position": "PD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5110" },
+    "name": "Pierre-Emerick Aubameyang",
+    "position": "PE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+    "_id": { "$oid": "666050101d1b4c3a8f9e5111" },
+    "name": "Faris Moumbagna",
+    "position": "ATA",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7235" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5201" },
+    "name": "Lucas Chevalier",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5202" },
+    "name": "Tiago Santos",
+    "position": "LD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5203" },
+    "name": "Leny Yoro",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5204" },
+    "name": "Alexsandro Ribeiro",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5205" },
+    "name": "Ismaily",
+    "position": "LE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5206" },
+    "name": "Benjamin André",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5207" },
+    "name": "Nabil Bentaleb",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5208" },
+    "name": "Angel Gomes",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5209" },
+    "name": "Edon Zhegrova",
+    "position": "PD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1255" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5210" },
+    "name": "Jonathan David",
+    "position": "PE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1260" }
+  },
+  {
+    "_id": { "$oid": "666050201d1b4c3a8f9e5211" },
+    "name": "Yusuf Yazıcı",
+    "position": "ATA",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7236" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1254" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5301" },
+    "name": "Philipp Köhn",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5302" },
+    "name": "Vanderson",
+    "position": "LD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5303" },
+    "name": "Guillermo Maripán",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5304" },
+    "name": "Thilo Kehrer",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1237" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5305" },
+    "name": "Caio Henrique",
+    "position": "LE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1241" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5306" },
+    "name": "Youssouf Fofana",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5307" },
+    "name": "Mohamed Camara",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5308" },
+    "name": "Aleksandr Golovin",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1265" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5309" },
+    "name": "Takumi Minamino",
+    "position": "PD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1263" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5310" },
+    "name": "Eliesse Ben Seghir",
+    "position": "PE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050301d1b4c3a8f9e5311" },
+    "name": "Wissam Ben Yedder",
+    "position": "ATA",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7237" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5401" },
+    "name": "Anthony Lopes",
+    "position": "Goleiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1240" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5402" },
+    "name": "Clinton Mata",
+    "position": "LD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5403" },
+    "name": "Jake O'Brien",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1235" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5404" },
+    "name": "Duje Ćaleta-Car",
+    "position": "Zagueiro",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1249" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5405" },
+    "name": "Nicolás Tagliafico",
+    "position": "LE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1242" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5406" },
+    "name": "Maxence Caqueret",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5407" },
+    "name": "Nemanja Matić",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1255" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5408" },
+    "name": "Rayan Cherki",
+    "position": "MC",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5409" },
+    "name": "Ernest Nuamah",
+    "position": "PD",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1257" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5410" },
+    "name": "Saïd Benrahma",
+    "position": "PE",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1258" }
+  },
+  {
+    "_id": { "$oid": "666050401d1b4c3a8f9e5411" },
+    "name": "Alexandre Lacazette",
+    "position": "ATA",
+    "team": { "$oid": "665f1d4e2d1b4c3a8f9e7238" },
+    "country": { "$oid": "665f1a7e2d1b4c3a8f9e1238" }
+  }
+]
+
+
+
+
+
